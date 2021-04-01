@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: Learn & Support
 solution-title: Experience Cloud Core Services
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
