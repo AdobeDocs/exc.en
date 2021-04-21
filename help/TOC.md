@@ -1,6 +1,6 @@
 ---
 cloud: Experience Cloud
-product: Adobe Experience Cloud
+product: adobe experience cloud
 audience: end-user
 user-guide-title: Experience Cloud Library Help
 ---
